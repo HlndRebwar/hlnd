@@ -1,0 +1,2 @@
+google sheet :- https://docs.google.com/spreadsheets/d/13ofPg9WeROyuTzRfJJy81DuuPB2XCmalzVRF1fkNxkY/edit?usp=sharing
+colab :- https://colab.research.google.com/drive/1K3nmcbS8sUrIPvW4nLkZ4_5TeQMgTY-3?usp=sharing
